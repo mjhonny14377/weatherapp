@@ -29,7 +29,6 @@ async function weatherupdate(location)
     else
     {  
         var data = await response.json();
-        console.log(data)
 
     
     document.querySelector(".location").innerHTML= data.name;
