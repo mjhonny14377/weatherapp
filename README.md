@@ -9,7 +9,7 @@ Features :
 
 Screenshots :
 (mobile screenshots)
-https://github.com/mjhonny14377/weatherapp/blob/e9525352495375b01e084ec3c044987e80a2496e/images/mobile%20%20screen%20shot%20-1.png
+images/mobile  screen shot -1.png
 https://github.com/mjhonny14377/weatherapp/blob/e9525352495375b01e084ec3c044987e80a2496e/images/mobile%20%20screen%20shot%20-2.png
 https://github.com/mjhonny14377/weatherapp/blob/e9525352495375b01e084ec3c044987e80a2496e/images/mobile%20%20screen%20shot%20-3.png
 
