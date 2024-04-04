@@ -9,7 +9,7 @@ Features :
 
 Screenshots :
 (mobile screenshots)
-images/mobile  screen shot -1.png
+https://github.com/mjhonny14377/weatherapp/blob/f1191219374eadef59f67c5181e8031bff873175/images/mobile%20%20screen%20shot%20-1.png
 https://github.com/mjhonny14377/weatherapp/blob/e9525352495375b01e084ec3c044987e80a2496e/images/mobile%20%20screen%20shot%20-2.png
 https://github.com/mjhonny14377/weatherapp/blob/e9525352495375b01e084ec3c044987e80a2496e/images/mobile%20%20screen%20shot%20-3.png
 
@@ -43,6 +43,7 @@ I would like to give credit to Flaticon for providing icons used in this app. Ic
 
 Contact :
 To reach out to me with questions, feedback, or inquiries.
+
 Mail to :mjhonny14377@gmail.com
 (mail id consists no spaces nor no capital letters)
 
