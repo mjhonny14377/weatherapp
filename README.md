@@ -1,4 +1,4 @@
-Weather App (name of the app is Clime Forage)
+Weather App (name of the app is ClimeForage)
 Description :
 The weather app provides users with accurate and up-to-date weather information for locations around the globe. With a sleek and intuitive interface, users can easily access essential weather data to plan their activities, travel, and daily routines.
 

@@ -3,24 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clima Forage</title>
+    <meta name ="description" content = "Experience the power of precise weather forecasts at your fingertips. Our app delivers reliable weather information tailored to your location, helping you plan your day with confidence.">
+    <meta name = "keywords"   content = "Climate data,Weather app,Temperature,Windspeed,Humidity,Real-time updates">
+    <meta name = "author"     content = "Sayyed vakar durga shaik">
+    <!-------------------Open Graph Protocol Meta tags--------------------->
+    <meta property ="og:description" content = "Experience the power of precise weather forecasts at your fingertips. Our app delivers reliable weather information tailored to your location, helping you plan your day with confidence.">
+    <meta property ="og:title"       content = "Climeforage">
+    <meta property ="og;type"        content = "website">
+    <meta property ="og:url"         content = "https://mjhonny14377.github.io/weatherapp/">
+    <meta property ="og:image"       content = "images/weather.png">
+    <meta property ="og:site_name"   content = "Climeforage">
+    <title>ClimeForage</title>
+    <link rel="icon" href="images/weather.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 
 </head>
 <body>
-    <h1>Clime Forage</h1>
-        <div class="searchbox">
+    <!-----------------website name ----------------------------------------->
+    <h1>ClimeForage</h1>
+    <!-----------------search------------------------------------------------->   
+    <div class="searchbox">
             <input type="text" id="search" placeholder="Search for weather by city, state, or ZIP code" spellcheck="false" required>
             <button type="submit" id="searchicon"><img src="images/icons8-search-48.png" alt="search icon"></button>
         </div>
+    <!-----------------error display message--------------------------------->
             <div class="error404">Location not found.Are you sure it exists?<br>Maybe it's on another planet.</div>
+    <!-----------------weather information----------------------------------->
     <div class="info">
         <img class="sun" src="" class="weather">
         <h1 class="celsius"></h1>
         <h2 class="location"></h2>
+    <!-----------------additional weather information------------------------->
     <div class="data">
-
-      
         <div class="box1">
             <img src=""  class="windy">
             <p class="wind"></p>
@@ -33,11 +47,12 @@
         </div>  
     </div>
     </div>
-   
+   <!--------------------footer---------------------------------------------------->
     <footer>
         <h3> &copy Sayyed vakar durga shaik<br>Weather updates provided by OpenWeather One Call API 3.0</h3>
 
     </footer>
+    <!------------------link to javascript file--------------------------------------->
 <script src="javascript.js"></script>
     
 </body>
